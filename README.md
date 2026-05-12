@@ -1,5 +1,5 @@
 # Masking-Cursor
-.ani files for this sursor
+.ani files for this cursor
 # how to use it？
 1. for Windows10 and Windows11:
    Settings > Personalization > Themes > Mouse pointers
